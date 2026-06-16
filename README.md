@@ -1,5 +1,10 @@
 # 🏠 Moradia Digna
 
+![Flutter](https://img.shields.io/badge/Flutter-3.44-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.12-blue?logo=dart)
+![License](https://img.shields.io/badge/License-Acad%C3%AAmica-green)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-success)
+
 Aplicativo desenvolvido em **Flutter** para a disciplina de **Dispositivos Móveis**, integrando conceitos das disciplinas de **Engenharia de Software** e **Redes de Computadores / Cloud Computing**.
 
 ## 📖 Sobre o Projeto
